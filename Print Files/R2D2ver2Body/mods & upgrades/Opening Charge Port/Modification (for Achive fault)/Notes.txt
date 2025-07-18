@@ -1,0 +1,5 @@
+OK, I've fixed the main model, the Archive contains the old verison. If you've printed this then these are modification to correct it. You have two options. 
+
+1) A standalone Magnet Holder, where if you've printed and fitted the main body parts, you can dremel or cut the magnet holder (in the main body, just inside the recess) out to allow the door to close, tidy up and glue in the standalone Magnet Holder about 4mm back. 
+
+2) A door with a recess, this allows the model to stay "as is" and has a recess in the door for the magnet holder. The challenge is finding a thin piece of steel (1mm x 6mm or thinner) to fit in the door, but it would work I think.

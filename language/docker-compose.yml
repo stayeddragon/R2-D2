@@ -1,0 +1,45 @@
+version: '3.8'
+
+services:
+  api:
+    build: .
+    image: r2d2_api:latest
+    container_name: r2d2_api
+    environment:
+      - USE_CELERY=1
+      - API_KEY=secret-key
+      - CELERY_BROKER_URL=redis://redis:6379/0
+      - CELERY_RESULT_BACKEND=redis://redis:6379/0
+    ports:
+      - "8000:8000"
+    depends_on:
+      - redis
+    restart: unless-stopped
+
+  worker:
+    build: .
+    image: r2d2_worker:latest
+    container_name: r2d2_worker
+    command: ["celery", "-A", "tasks", "worker", "--loglevel=info", "--concurrency=2"]
+    environment:
+      - CELERY_BROKER_URL=redis://redis:6379/0
+      - CELERY_RESULT_BACKEND=redis://redis:6379/0
+    depends_on:
+      - redis
+    restart: unless-stopped
+
+  redis:
+    image: redis:6-alpine
+    container_name: r2d2_redis
+    restart: unless-stopped
+
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: r2d2_prometheus
+    volumes:
+      - ./prometheus.yml:/etc/prometheus/prometheus.yml:ro
+    ports:
+      - "9090:9090"
+    depends_on:
+      - api
+    restart: unless-stopped

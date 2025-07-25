@@ -1,0 +1,3416 @@
+{
+  "phrases": {
+    "hello": [
+      {
+        "freq": 489.06,
+        "dur": 260,
+        "env": "linear",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 1037.21,
+          "Q": 0.6
+        },
+        "vibrato": {
+          "rate": 7.7,
+          "depth": 63.63
+        },
+        "noise_mix": 0.18,
+        "random_shift": {
+          "freq": 10.64,
+          "dur": 12
+        }
+      },
+      {
+        "freq": 574.91,
+        "dur": 378,
+        "env": "s-curve",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 1754.12,
+          "Q": 1.22
+        },
+        "vibrato": {
+          "rate": 7.51,
+          "depth": 53.56
+        },
+        "noise_mix": 0.13,
+        "random_shift": {
+          "freq": 15.56,
+          "dur": 37
+        }
+      },
+      {
+        "freq": 405.2,
+        "dur": 201,
+        "env": "s-curve",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 1378.43,
+          "Q": 0.66
+        },
+        "vibrato": {
+          "rate": 8.79,
+          "depth": 46.93
+        },
+        "noise_mix": 0.03,
+        "random_shift": {
+          "freq": 11.93,
+          "dur": 37
+        }
+      }
+    ],
+    "good morning": [
+      {
+        "freq": 882.98,
+        "dur": 142,
+        "env": "s-curve",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 1711.59,
+          "Q": 1.47
+        },
+        "vibrato": {
+          "rate": 5.89,
+          "depth": 64.16
+        },
+        "noise_mix": 0.25,
+        "random_shift": {
+          "freq": 22.37,
+          "dur": 37
+        }
+      },
+      {
+        "freq": 689.31,
+        "dur": 218,
+        "env": "s-curve",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 877.9,
+          "Q": 0.73
+        },
+        "vibrato": {
+          "rate": 5.45,
+          "depth": 26.38
+        },
+        "noise_mix": 0.07,
+        "random_shift": {
+          "freq": 12.02,
+          "dur": 18
+        }
+      }
+    ],
+    "good night": [
+      {
+        "freq": 908.55,
+        "dur": 306,
+        "env": "linear",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 1403.96,
+          "Q": 1.17
+        },
+        "vibrato": {
+          "rate": 7.51,
+          "depth": 74.68
+        },
+        "noise_mix": 0.02,
+        "random_shift": {
+          "freq": 22.7,
+          "dur": 27
+        }
+      },
+      {
+        "freq": 983.3,
+        "dur": 203,
+        "env": "attack-decay",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 1258.91,
+          "Q": 1.43
+        },
+        "vibrato": {
+          "rate": 7.44,
+          "depth": 37.57
+        },
+        "noise_mix": 0.1,
+        "random_shift": {
+          "freq": 25.37,
+          "dur": 11
+        }
+      }
+    ],
+    "how are you": [
+      {
+        "freq": 1057.44,
+        "dur": 281,
+        "env": "attack-decay",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 912.52,
+          "Q": 1.41
+        },
+        "vibrato": {
+          "rate": 6.84,
+          "depth": 77.43
+        },
+        "noise_mix": 0.06,
+        "random_shift": {
+          "freq": 19.98,
+          "dur": 38
+        }
+      }
+    ],
+    "thank you": [
+      {
+        "freq": 767.08,
+        "dur": 255,
+        "env": "linear",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 2066.48,
+          "Q": 1.04
+        },
+        "vibrato": {
+          "rate": 7.74,
+          "depth": 54.27
+        },
+        "noise_mix": 0.18,
+        "random_shift": {
+          "freq": 17.24,
+          "dur": 14
+        }
+      },
+      {
+        "freq": 807.62,
+        "dur": 166,
+        "env": "linear",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 1059.83,
+          "Q": 0.66
+        },
+        "vibrato": {
+          "rate": 7.4,
+          "depth": 67.71
+        },
+        "noise_mix": 0.12,
+        "random_shift": {
+          "freq": 21.92,
+          "dur": 24
+        }
+      },
+      {
+        "freq": 823.29,
+        "dur": 125,
+        "env": "s-curve",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 994.74,
+          "Q": 1.38
+        },
+        "vibrato": {
+          "rate": 7.75,
+          "depth": 81.49
+        },
+        "noise_mix": 0.1,
+        "random_shift": {
+          "freq": 15.87,
+          "dur": 15
+        }
+      }
+    ],
+    "please": [
+      {
+        "freq": 402.6,
+        "dur": 254,
+        "env": "s-curve",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 1663.06,
+          "Q": 0.61
+        },
+        "vibrato": {
+          "rate": 7.13,
+          "depth": 87.33
+        },
+        "noise_mix": 0.15,
+        "random_shift": {
+          "freq": 13.98,
+          "dur": 21
+        }
+      },
+      {
+        "freq": 1010.01,
+        "dur": 396,
+        "env": "s-curve",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 1818.21,
+          "Q": 0.99
+        },
+        "vibrato": {
+          "rate": 4.56,
+          "depth": 49.04
+        },
+        "noise_mix": 0.3,
+        "random_shift": {
+          "freq": 26.14,
+          "dur": 17
+        }
+      }
+    ],
+    "sorry": [
+      {
+        "freq": 592.7,
+        "dur": 160,
+        "env": "linear",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 1626.18,
+          "Q": 0.57
+        },
+        "vibrato": {
+          "rate": 7.8,
+          "depth": 81.27
+        },
+        "noise_mix": 0.04,
+        "random_shift": {
+          "freq": 19.51,
+          "dur": 27
+        }
+      }
+    ],
+    "help me": [
+      {
+        "freq": 612.05,
+        "dur": 336,
+        "env": "linear",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 2083.95,
+          "Q": 1.19
+        },
+        "vibrato": {
+          "rate": 7.56,
+          "depth": 51.92
+        },
+        "noise_mix": 0.2,
+        "random_shift": {
+          "freq": 17.47,
+          "dur": 38
+        }
+      }
+    ],
+    "where are you": [
+      {
+        "freq": 761.19,
+        "dur": 246,
+        "env": "linear",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 1374.75,
+          "Q": 1.09
+        },
+        "vibrato": {
+          "rate": 5.15,
+          "depth": 37.62
+        },
+        "noise_mix": 0.02,
+        "random_shift": {
+          "freq": 22.62,
+          "dur": 17
+        }
+      },
+      {
+        "freq": 453.92,
+        "dur": 136,
+        "env": "attack-decay",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 1674.07,
+          "Q": 0.78
+        },
+        "vibrato": {
+          "rate": 6.43,
+          "depth": 63.14
+        },
+        "noise_mix": 0.22,
+        "random_shift": {
+          "freq": 27.65,
+          "dur": 28
+        }
+      },
+      {
+        "freq": 778.14,
+        "dur": 362,
+        "env": "attack-decay",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 960.35,
+          "Q": 1.16
+        },
+        "vibrato": {
+          "rate": 5.77,
+          "depth": 52.89
+        },
+        "noise_mix": 0.26,
+        "random_shift": {
+          "freq": 11.08,
+          "dur": 30
+        }
+      }
+    ],
+    "what's your name": [
+      {
+        "freq": 478.73,
+        "dur": 326,
+        "env": "s-curve",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 2161.01,
+          "Q": 0.61
+        },
+        "vibrato": {
+          "rate": 4.96,
+          "depth": 62.9
+        },
+        "noise_mix": 0.04,
+        "random_shift": {
+          "freq": 13.67,
+          "dur": 24
+        }
+      },
+      {
+        "freq": 599.85,
+        "dur": 158,
+        "env": "attack-decay",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 966.44,
+          "Q": 1.15
+        },
+        "vibrato": {
+          "rate": 6.7,
+          "depth": 21.18
+        },
+        "noise_mix": 0.03,
+        "random_shift": {
+          "freq": 25.07,
+          "dur": 17
+        }
+      },
+      {
+        "freq": 533.05,
+        "dur": 368,
+        "env": "attack-decay",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 2269.91,
+          "Q": 1.4
+        },
+        "vibrato": {
+          "rate": 4.82,
+          "depth": 20.17
+        },
+        "noise_mix": 0.12,
+        "random_shift": {
+          "freq": 28.53,
+          "dur": 35
+        }
+      }
+    ],
+    "i am hungry": [
+      {
+        "freq": 628.2,
+        "dur": 369,
+        "env": "linear",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 1304.4,
+          "Q": 1.47
+        },
+        "vibrato": {
+          "rate": 6.9,
+          "depth": 63.38
+        },
+        "noise_mix": 0.22,
+        "random_shift": {
+          "freq": 11.14,
+          "dur": 28
+        }
+      },
+      {
+        "freq": 781.43,
+        "dur": 391,
+        "env": "linear",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 2433.32,
+          "Q": 0.58
+        },
+        "vibrato": {
+          "rate": 4.93,
+          "depth": 67.6
+        },
+        "noise_mix": 0.2,
+        "random_shift": {
+          "freq": 14.7,
+          "dur": 13
+        }
+      }
+    ],
+    "are you okay": [
+      {
+        "freq": 596.97,
+        "dur": 140,
+        "env": "s-curve",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 1512.68,
+          "Q": 1.08
+        },
+        "vibrato": {
+          "rate": 6.61,
+          "depth": 94.78
+        },
+        "noise_mix": 0.06,
+        "random_shift": {
+          "freq": 24.32,
+          "dur": 17
+        }
+      },
+      {
+        "freq": 612.49,
+        "dur": 187,
+        "env": "s-curve",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 1310.0,
+          "Q": 0.82
+        },
+        "vibrato": {
+          "rate": 7.76,
+          "depth": 25.8
+        },
+        "noise_mix": 0.14,
+        "random_shift": {
+          "freq": 29.97,
+          "dur": 13
+        }
+      },
+      {
+        "freq": 458.61,
+        "dur": 229,
+        "env": "s-curve",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 1025.18,
+          "Q": 0.85
+        },
+        "vibrato": {
+          "rate": 4.34,
+          "depth": 39.54
+        },
+        "noise_mix": 0.09,
+        "random_shift": {
+          "freq": 18.76,
+          "dur": 27
+        }
+      }
+    ],
+    "goodbye": [
+      {
+        "freq": 642.01,
+        "dur": 390,
+        "env": "linear",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 2189.08,
+          "Q": 0.8
+        },
+        "vibrato": {
+          "rate": 7.32,
+          "depth": 95.11
+        },
+        "noise_mix": 0.04,
+        "random_shift": {
+          "freq": 12.31,
+          "dur": 13
+        }
+      },
+      {
+        "freq": 993.93,
+        "dur": 199,
+        "env": "attack-decay",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 1828.21,
+          "Q": 1.22
+        },
+        "vibrato": {
+          "rate": 5.02,
+          "depth": 70.74
+        },
+        "noise_mix": 0.08,
+        "random_shift": {
+          "freq": 19.77,
+          "dur": 38
+        }
+      },
+      {
+        "freq": 1126.53,
+        "dur": 146,
+        "env": "linear",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 1520.08,
+          "Q": 0.78
+        },
+        "vibrato": {
+          "rate": 4.02,
+          "depth": 81.69
+        },
+        "noise_mix": 0.19,
+        "random_shift": {
+          "freq": 15.24,
+          "dur": 33
+        }
+      }
+    ],
+    "see you": [
+      {
+        "freq": 841.34,
+        "dur": 338,
+        "env": "s-curve",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 990.19,
+          "Q": 1.45
+        },
+        "vibrato": {
+          "rate": 7.46,
+          "depth": 31.92
+        },
+        "noise_mix": 0.01,
+        "random_shift": {
+          "freq": 17.38,
+          "dur": 27
+        }
+      },
+      {
+        "freq": 518.48,
+        "dur": 185,
+        "env": "linear",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 1419.91,
+          "Q": 1.43
+        },
+        "vibrato": {
+          "rate": 8.86,
+          "depth": 23.19
+        },
+        "noise_mix": 0.11,
+        "random_shift": {
+          "freq": 23.64,
+          "dur": 31
+        }
+      }
+    ],
+    "take care": [
+      {
+        "freq": 682.94,
+        "dur": 328,
+        "env": "s-curve",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 1062.74,
+          "Q": 1.43
+        },
+        "vibrato": {
+          "rate": 8.32,
+          "depth": 98.1
+        },
+        "noise_mix": 0.24,
+        "random_shift": {
+          "freq": 27.63,
+          "dur": 10
+        }
+      }
+    ],
+    "welcome": [
+      {
+        "freq": 989.25,
+        "dur": 290,
+        "env": "attack-decay",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 2268.91,
+          "Q": 1.31
+        },
+        "vibrato": {
+          "rate": 5.33,
+          "depth": 82.99
+        },
+        "noise_mix": 0.03,
+        "random_shift": {
+          "freq": 27.44,
+          "dur": 37
+        }
+      }
+    ],
+    "congratulations": [
+      {
+        "freq": 577.95,
+        "dur": 355,
+        "env": "attack-decay",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 2194.91,
+          "Q": 1.37
+        },
+        "vibrato": {
+          "rate": 5.11,
+          "depth": 72.8
+        },
+        "noise_mix": 0.12,
+        "random_shift": {
+          "freq": 15.57,
+          "dur": 12
+        }
+      },
+      {
+        "freq": 1173.51,
+        "dur": 262,
+        "env": "attack-decay",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 1665.99,
+          "Q": 1.18
+        },
+        "vibrato": {
+          "rate": 8.22,
+          "depth": 46.49
+        },
+        "noise_mix": 0.01,
+        "random_shift": {
+          "freq": 27.54,
+          "dur": 18
+        }
+      }
+    ],
+    "well done": [
+      {
+        "freq": 864.47,
+        "dur": 255,
+        "env": "linear",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 1814.17,
+          "Q": 0.85
+        },
+        "vibrato": {
+          "rate": 7.93,
+          "depth": 54.91
+        },
+        "noise_mix": 0.3,
+        "random_shift": {
+          "freq": 12.31,
+          "dur": 38
+        }
+      }
+    ],
+    "nice to meet you": [
+      {
+        "freq": 552.06,
+        "dur": 142,
+        "env": "s-curve",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 802.88,
+          "Q": 1.43
+        },
+        "vibrato": {
+          "rate": 6.69,
+          "depth": 77.55
+        },
+        "noise_mix": 0.22,
+        "random_shift": {
+          "freq": 23.41,
+          "dur": 21
+        }
+      },
+      {
+        "freq": 745.04,
+        "dur": 289,
+        "env": "s-curve",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 1927.76,
+          "Q": 0.62
+        },
+        "vibrato": {
+          "rate": 8.5,
+          "depth": 60.57
+        },
+        "noise_mix": 0.2,
+        "random_shift": {
+          "freq": 16.52,
+          "dur": 32
+        }
+      },
+      {
+        "freq": 636.52,
+        "dur": 185,
+        "env": "linear",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 1930.38,
+          "Q": 0.88
+        },
+        "vibrato": {
+          "rate": 7.74,
+          "depth": 33.92
+        },
+        "noise_mix": 0.17,
+        "random_shift": {
+          "freq": 18.12,
+          "dur": 36
+        }
+      }
+    ],
+    "i love you": [
+      {
+        "freq": 643.1,
+        "dur": 227,
+        "env": "attack-decay",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 1831.32,
+          "Q": 0.82
+        },
+        "vibrato": {
+          "rate": 6.21,
+          "depth": 74.05
+        },
+        "noise_mix": 0.15,
+        "random_shift": {
+          "freq": 25.87,
+          "dur": 40
+        }
+      }
+    ],
+    "let's go": [
+      {
+        "freq": 535.75,
+        "dur": 163,
+        "env": "attack-decay",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 1928.55,
+          "Q": 1.12
+        },
+        "vibrato": {
+          "rate": 4.47,
+          "depth": 96.16
+        },
+        "noise_mix": 0.07,
+        "random_shift": {
+          "freq": 16.21,
+          "dur": 35
+        }
+      },
+      {
+        "freq": 559.3,
+        "dur": 132,
+        "env": "linear",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 2472.69,
+          "Q": 1.11
+        },
+        "vibrato": {
+          "rate": 7.84,
+          "depth": 56.43
+        },
+        "noise_mix": 0.27,
+        "random_shift": {
+          "freq": 21.51,
+          "dur": 32
+        }
+      },
+      {
+        "freq": 957.08,
+        "dur": 373,
+        "env": "attack-decay",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 1050.87,
+          "Q": 1.19
+        },
+        "vibrato": {
+          "rate": 8.46,
+          "depth": 88.84
+        },
+        "noise_mix": 0.27,
+        "random_shift": {
+          "freq": 25.57,
+          "dur": 17
+        }
+      }
+    ],
+    "stop there": [
+      {
+        "freq": 1043.29,
+        "dur": 385,
+        "env": "attack-decay",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 1747.59,
+          "Q": 1.42
+        },
+        "vibrato": {
+          "rate": 4.61,
+          "depth": 30.67
+        },
+        "noise_mix": 0.14,
+        "random_shift": {
+          "freq": 20.62,
+          "dur": 27
+        }
+      }
+    ],
+    "follow me": [
+      {
+        "freq": 653.84,
+        "dur": 346,
+        "env": "s-curve",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 2316.43,
+          "Q": 0.93
+        },
+        "vibrato": {
+          "rate": 8.53,
+          "depth": 55.67
+        },
+        "noise_mix": 0.05,
+        "random_shift": {
+          "freq": 27.23,
+          "dur": 24
+        }
+      },
+      {
+        "freq": 607.35,
+        "dur": 246,
+        "env": "s-curve",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 2101.88,
+          "Q": 1.02
+        },
+        "vibrato": {
+          "rate": 7.13,
+          "depth": 41.97
+        },
+        "noise_mix": 0.02,
+        "random_shift": {
+          "freq": 15.71,
+          "dur": 18
+        }
+      },
+      {
+        "freq": 668.68,
+        "dur": 396,
+        "env": "linear",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 1056.41,
+          "Q": 0.88
+        },
+        "vibrato": {
+          "rate": 4.76,
+          "depth": 37.12
+        },
+        "noise_mix": 0.12,
+        "random_shift": {
+          "freq": 16.62,
+          "dur": 24
+        }
+      }
+    ],
+    "come here": [
+      {
+        "freq": 449.81,
+        "dur": 335,
+        "env": "attack-decay",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 2408.31,
+          "Q": 0.52
+        },
+        "vibrato": {
+          "rate": 8.4,
+          "depth": 66.06
+        },
+        "noise_mix": 0.14,
+        "random_shift": {
+          "freq": 28.85,
+          "dur": 19
+        }
+      },
+      {
+        "freq": 1002.78,
+        "dur": 334,
+        "env": "s-curve",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 2048.88,
+          "Q": 1.3
+        },
+        "vibrato": {
+          "rate": 8.49,
+          "depth": 59.06
+        },
+        "noise_mix": 0.08,
+        "random_shift": {
+          "freq": 19.71,
+          "dur": 22
+        }
+      }
+    ],
+    "go away": [
+      {
+        "freq": 935.1,
+        "dur": 327,
+        "env": "s-curve",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 2228.86,
+          "Q": 1.42
+        },
+        "vibrato": {
+          "rate": 8.9,
+          "depth": 62.73
+        },
+        "noise_mix": 0.27,
+        "random_shift": {
+          "freq": 21.84,
+          "dur": 31
+        }
+      },
+      {
+        "freq": 421.68,
+        "dur": 339,
+        "env": "linear",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 1108.94,
+          "Q": 0.76
+        },
+        "vibrato": {
+          "rate": 5.64,
+          "depth": 56.38
+        },
+        "noise_mix": 0.1,
+        "random_shift": {
+          "freq": 27.59,
+          "dur": 18
+        }
+      }
+    ],
+    "yes sir": [
+      {
+        "freq": 601.82,
+        "dur": 161,
+        "env": "attack-decay",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 2073.34,
+          "Q": 0.55
+        },
+        "vibrato": {
+          "rate": 8.76,
+          "depth": 37.94
+        },
+        "noise_mix": 0.02,
+        "random_shift": {
+          "freq": 29.15,
+          "dur": 11
+        }
+      },
+      {
+        "freq": 1003.39,
+        "dur": 246,
+        "env": "linear",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 1856.27,
+          "Q": 0.74
+        },
+        "vibrato": {
+          "rate": 6.37,
+          "depth": 29.15
+        },
+        "noise_mix": 0.28,
+        "random_shift": {
+          "freq": 19.3,
+          "dur": 18
+        }
+      }
+    ],
+    "no problem": [
+      {
+        "freq": 534.23,
+        "dur": 178,
+        "env": "linear",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 983.77,
+          "Q": 0.53
+        },
+        "vibrato": {
+          "rate": 5.56,
+          "depth": 74.19
+        },
+        "noise_mix": 0.29,
+        "random_shift": {
+          "freq": 17.93,
+          "dur": 32
+        }
+      },
+      {
+        "freq": 558.66,
+        "dur": 244,
+        "env": "linear",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 2113.22,
+          "Q": 1.35
+        },
+        "vibrato": {
+          "rate": 7.0,
+          "depth": 29.68
+        },
+        "noise_mix": 0.3,
+        "random_shift": {
+          "freq": 25.65,
+          "dur": 21
+        }
+      }
+    ],
+    "i'm sorry": [
+      {
+        "freq": 742.7,
+        "dur": 309,
+        "env": "linear",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 1900.82,
+          "Q": 0.51
+        },
+        "vibrato": {
+          "rate": 6.1,
+          "depth": 59.22
+        },
+        "noise_mix": 0.13,
+        "random_shift": {
+          "freq": 17.24,
+          "dur": 38
+        }
+      },
+      {
+        "freq": 1062.97,
+        "dur": 198,
+        "env": "attack-decay",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 2047.45,
+          "Q": 1.47
+        },
+        "vibrato": {
+          "rate": 5.35,
+          "depth": 84.66
+        },
+        "noise_mix": 0.16,
+        "random_shift": {
+          "freq": 19.67,
+          "dur": 23
+        }
+      },
+      {
+        "freq": 1060.59,
+        "dur": 257,
+        "env": "attack-decay",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 2212.24,
+          "Q": 0.59
+        },
+        "vibrato": {
+          "rate": 8.41,
+          "depth": 39.51
+        },
+        "noise_mix": 0.14,
+        "random_shift": {
+          "freq": 22.21,
+          "dur": 22
+        }
+      }
+    ],
+    "thank you very much": [
+      {
+        "freq": 422.96,
+        "dur": 286,
+        "env": "linear",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 1160.6,
+          "Q": 1.3
+        },
+        "vibrato": {
+          "rate": 5.7,
+          "depth": 90.43
+        },
+        "noise_mix": 0.21,
+        "random_shift": {
+          "freq": 15.53,
+          "dur": 10
+        }
+      },
+      {
+        "freq": 813.3,
+        "dur": 217,
+        "env": "linear",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 2024.13,
+          "Q": 0.99
+        },
+        "vibrato": {
+          "rate": 7.79,
+          "depth": 75.25
+        },
+        "noise_mix": 0.19,
+        "random_shift": {
+          "freq": 19.82,
+          "dur": 35
+        }
+      }
+    ],
+    "good luck": [
+      {
+        "freq": 474.44,
+        "dur": 233,
+        "env": "attack-decay",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 1213.62,
+          "Q": 1.16
+        },
+        "vibrato": {
+          "rate": 5.85,
+          "depth": 64.28
+        },
+        "noise_mix": 0.1,
+        "random_shift": {
+          "freq": 29.93,
+          "dur": 27
+        }
+      }
+    ],
+    "be careful": [
+      {
+        "freq": 681.45,
+        "dur": 352,
+        "env": "attack-decay",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 1227.39,
+          "Q": 0.62
+        },
+        "vibrato": {
+          "rate": 4.96,
+          "depth": 29.56
+        },
+        "noise_mix": 0.16,
+        "random_shift": {
+          "freq": 25.24,
+          "dur": 15
+        }
+      },
+      {
+        "freq": 553.23,
+        "dur": 367,
+        "env": "attack-decay",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 1802.3,
+          "Q": 1.26
+        },
+        "vibrato": {
+          "rate": 6.98,
+          "depth": 98.44
+        },
+        "noise_mix": 0.25,
+        "random_shift": {
+          "freq": 15.92,
+          "dur": 21
+        }
+      }
+    ],
+    "what time is it": [
+      {
+        "freq": 641.81,
+        "dur": 393,
+        "env": "linear",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 877.38,
+          "Q": 0.55
+        },
+        "vibrato": {
+          "rate": 5.46,
+          "depth": 95.53
+        },
+        "noise_mix": 0.19,
+        "random_shift": {
+          "freq": 25.06,
+          "dur": 13
+        }
+      }
+    ],
+    "how much": [
+      {
+        "freq": 859.25,
+        "dur": 360,
+        "env": "attack-decay",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 1379.2,
+          "Q": 1.47
+        },
+        "vibrato": {
+          "rate": 5.26,
+          "depth": 88.94
+        },
+        "noise_mix": 0.03,
+        "random_shift": {
+          "freq": 11.31,
+          "dur": 25
+        }
+      }
+    ],
+    "where is the bathroom": [
+      {
+        "freq": 861.62,
+        "dur": 147,
+        "env": "linear",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 2178.94,
+          "Q": 1.45
+        },
+        "vibrato": {
+          "rate": 4.43,
+          "depth": 39.86
+        },
+        "noise_mix": 0.17,
+        "random_shift": {
+          "freq": 18.32,
+          "dur": 29
+        }
+      }
+    ],
+    "i don't understand": [
+      {
+        "freq": 580.55,
+        "dur": 387,
+        "env": "attack-decay",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 2344.46,
+          "Q": 0.8
+        },
+        "vibrato": {
+          "rate": 6.94,
+          "depth": 54.31
+        },
+        "noise_mix": 0.17,
+        "random_shift": {
+          "freq": 11.2,
+          "dur": 40
+        }
+      },
+      {
+        "freq": 992.07,
+        "dur": 226,
+        "env": "s-curve",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 1249.9,
+          "Q": 0.58
+        },
+        "vibrato": {
+          "rate": 5.2,
+          "depth": 64.16
+        },
+        "noise_mix": 0.05,
+        "random_shift": {
+          "freq": 18.17,
+          "dur": 32
+        }
+      },
+      {
+        "freq": 875.05,
+        "dur": 269,
+        "env": "linear",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 1289.78,
+          "Q": 0.78
+        },
+        "vibrato": {
+          "rate": 8.3,
+          "depth": 25.69
+        },
+        "noise_mix": 0.07,
+        "random_shift": {
+          "freq": 15.29,
+          "dur": 35
+        }
+      }
+    ],
+    "please repeat": [
+      {
+        "freq": 871.83,
+        "dur": 221,
+        "env": "attack-decay",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 1725.76,
+          "Q": 1.15
+        },
+        "vibrato": {
+          "rate": 8.54,
+          "depth": 86.13
+        },
+        "noise_mix": 0.02,
+        "random_shift": {
+          "freq": 13.32,
+          "dur": 19
+        }
+      },
+      {
+        "freq": 876.04,
+        "dur": 267,
+        "env": "attack-decay",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 1596.79,
+          "Q": 0.8
+        },
+        "vibrato": {
+          "rate": 6.01,
+          "depth": 41.78
+        },
+        "noise_mix": 0.16,
+        "random_shift": {
+          "freq": 18.76,
+          "dur": 29
+        }
+      },
+      {
+        "freq": 431.89,
+        "dur": 341,
+        "env": "s-curve",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 1826.31,
+          "Q": 0.53
+        },
+        "vibrato": {
+          "rate": 5.14,
+          "depth": 73.94
+        },
+        "noise_mix": 0.26,
+        "random_shift": {
+          "freq": 21.74,
+          "dur": 10
+        }
+      }
+    ],
+    "do you speak english": [
+      {
+        "freq": 1057.14,
+        "dur": 140,
+        "env": "linear",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 1682.24,
+          "Q": 0.94
+        },
+        "vibrato": {
+          "rate": 5.39,
+          "depth": 99.76
+        },
+        "noise_mix": 0.13,
+        "random_shift": {
+          "freq": 26.28,
+          "dur": 12
+        }
+      },
+      {
+        "freq": 776.01,
+        "dur": 329,
+        "env": "attack-decay",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 1939.23,
+          "Q": 1.36
+        },
+        "vibrato": {
+          "rate": 5.65,
+          "depth": 75.49
+        },
+        "noise_mix": 0.09,
+        "random_shift": {
+          "freq": 28.9,
+          "dur": 36
+        }
+      },
+      {
+        "freq": 1008.4,
+        "dur": 138,
+        "env": "attack-decay",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 1334.68,
+          "Q": 0.82
+        },
+        "vibrato": {
+          "rate": 8.85,
+          "depth": 52.33
+        },
+        "noise_mix": 0.15,
+        "random_shift": {
+          "freq": 29.76,
+          "dur": 31
+        }
+      }
+    ],
+    "my name is r2": [
+      {
+        "freq": 769.58,
+        "dur": 147,
+        "env": "linear",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 1415.02,
+          "Q": 1.26
+        },
+        "vibrato": {
+          "rate": 7.13,
+          "depth": 80.8
+        },
+        "noise_mix": 0.06,
+        "random_shift": {
+          "freq": 20.98,
+          "dur": 39
+        }
+      },
+      {
+        "freq": 630.42,
+        "dur": 368,
+        "env": "linear",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 2454.35,
+          "Q": 1.11
+        },
+        "vibrato": {
+          "rate": 5.2,
+          "depth": 32.67
+        },
+        "noise_mix": 0.17,
+        "random_shift": {
+          "freq": 21.05,
+          "dur": 12
+        }
+      },
+      {
+        "freq": 579.76,
+        "dur": 178,
+        "env": "attack-decay",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 1901.11,
+          "Q": 0.65
+        },
+        "vibrato": {
+          "rate": 8.66,
+          "depth": 43.35
+        },
+        "noise_mix": 0.21,
+        "random_shift": {
+          "freq": 18.31,
+          "dur": 25
+        }
+      }
+    ],
+    "i need help": [
+      {
+        "freq": 594.98,
+        "dur": 194,
+        "env": "attack-decay",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 2367.18,
+          "Q": 1.01
+        },
+        "vibrato": {
+          "rate": 8.4,
+          "depth": 89.12
+        },
+        "noise_mix": 0.08,
+        "random_shift": {
+          "freq": 25.8,
+          "dur": 23
+        }
+      },
+      {
+        "freq": 671.9,
+        "dur": 379,
+        "env": "attack-decay",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 1280.83,
+          "Q": 0.8
+        },
+        "vibrato": {
+          "rate": 6.93,
+          "depth": 99.91
+        },
+        "noise_mix": 0.15,
+        "random_shift": {
+          "freq": 12.97,
+          "dur": 27
+        }
+      }
+    ],
+    "call for help": [
+      {
+        "freq": 676.1,
+        "dur": 398,
+        "env": "attack-decay",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 2385.85,
+          "Q": 1.37
+        },
+        "vibrato": {
+          "rate": 8.9,
+          "depth": 39.1
+        },
+        "noise_mix": 0.11,
+        "random_shift": {
+          "freq": 27.12,
+          "dur": 23
+        }
+      },
+      {
+        "freq": 434.92,
+        "dur": 362,
+        "env": "s-curve",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 1456.33,
+          "Q": 1.16
+        },
+        "vibrato": {
+          "rate": 8.1,
+          "depth": 98.47
+        },
+        "noise_mix": 0.15,
+        "random_shift": {
+          "freq": 10.74,
+          "dur": 26
+        }
+      }
+    ],
+    "danger ahead": [
+      {
+        "freq": 665.6,
+        "dur": 171,
+        "env": "attack-decay",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 1694.12,
+          "Q": 0.96
+        },
+        "vibrato": {
+          "rate": 7.61,
+          "depth": 52.8
+        },
+        "noise_mix": 0.2,
+        "random_shift": {
+          "freq": 13.09,
+          "dur": 25
+        }
+      },
+      {
+        "freq": 1025.22,
+        "dur": 255,
+        "env": "attack-decay",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 1977.6,
+          "Q": 1.15
+        },
+        "vibrato": {
+          "rate": 8.26,
+          "depth": 88.19
+        },
+        "noise_mix": 0.26,
+        "random_shift": {
+          "freq": 17.6,
+          "dur": 20
+        }
+      },
+      {
+        "freq": 901.44,
+        "dur": 369,
+        "env": "s-curve",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 1849.68,
+          "Q": 0.73
+        },
+        "vibrato": {
+          "rate": 7.42,
+          "depth": 42.99
+        },
+        "noise_mix": 0.07,
+        "random_shift": {
+          "freq": 11.81,
+          "dur": 13
+        }
+      }
+    ],
+    "safe now": [
+      {
+        "freq": 963.11,
+        "dur": 171,
+        "env": "attack-decay",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 1979.8,
+          "Q": 1.4
+        },
+        "vibrato": {
+          "rate": 4.23,
+          "depth": 83.69
+        },
+        "noise_mix": 0.09,
+        "random_shift": {
+          "freq": 17.5,
+          "dur": 14
+        }
+      },
+      {
+        "freq": 595.36,
+        "dur": 330,
+        "env": "s-curve",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 2147.28,
+          "Q": 0.67
+        },
+        "vibrato": {
+          "rate": 4.39,
+          "depth": 89.67
+        },
+        "noise_mix": 0.19,
+        "random_shift": {
+          "freq": 14.82,
+          "dur": 39
+        }
+      },
+      {
+        "freq": 866.53,
+        "dur": 238,
+        "env": "attack-decay",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 1231.76,
+          "Q": 0.76
+        },
+        "vibrato": {
+          "rate": 4.05,
+          "depth": 84.37
+        },
+        "noise_mix": 0.27,
+        "random_shift": {
+          "freq": 23.55,
+          "dur": 15
+        }
+      }
+    ],
+    "mission complete": [
+      {
+        "freq": 753.38,
+        "dur": 296,
+        "env": "s-curve",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 1886.2,
+          "Q": 0.92
+        },
+        "vibrato": {
+          "rate": 5.25,
+          "depth": 87.62
+        },
+        "noise_mix": 0.06,
+        "random_shift": {
+          "freq": 17.69,
+          "dur": 25
+        }
+      }
+    ],
+    "begin mission": [
+      {
+        "freq": 589.76,
+        "dur": 303,
+        "env": "s-curve",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 2487.58,
+          "Q": 0.8
+        },
+        "vibrato": {
+          "rate": 8.89,
+          "depth": 72.66
+        },
+        "noise_mix": 0.08,
+        "random_shift": {
+          "freq": 21.32,
+          "dur": 31
+        }
+      }
+    ],
+    "enemy detected": [
+      {
+        "freq": 1178.88,
+        "dur": 374,
+        "env": "attack-decay",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 1832.01,
+          "Q": 0.85
+        },
+        "vibrato": {
+          "rate": 7.18,
+          "depth": 69.67
+        },
+        "noise_mix": 0.2,
+        "random_shift": {
+          "freq": 24.42,
+          "dur": 31
+        }
+      },
+      {
+        "freq": 944.68,
+        "dur": 190,
+        "env": "s-curve",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 2335.79,
+          "Q": 1.15
+        },
+        "vibrato": {
+          "rate": 5.54,
+          "depth": 55.27
+        },
+        "noise_mix": 0.17,
+        "random_shift": {
+          "freq": 24.65,
+          "dur": 12
+        }
+      },
+      {
+        "freq": 1127.7,
+        "dur": 287,
+        "env": "s-curve",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 1098.59,
+          "Q": 0.63
+        },
+        "vibrato": {
+          "rate": 6.7,
+          "depth": 97.72
+        },
+        "noise_mix": 0.16,
+        "random_shift": {
+          "freq": 28.27,
+          "dur": 36
+        }
+      }
+    ],
+    "friend or foe": [
+      {
+        "freq": 605.58,
+        "dur": 366,
+        "env": "attack-decay",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 2279.67,
+          "Q": 1.3
+        },
+        "vibrato": {
+          "rate": 6.34,
+          "depth": 26.02
+        },
+        "noise_mix": 0.23,
+        "random_shift": {
+          "freq": 14.51,
+          "dur": 31
+        }
+      }
+    ],
+    "system failure": [
+      {
+        "freq": 939.52,
+        "dur": 323,
+        "env": "s-curve",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 953.51,
+          "Q": 0.89
+        },
+        "vibrato": {
+          "rate": 5.32,
+          "depth": 29.89
+        },
+        "noise_mix": 0.11,
+        "random_shift": {
+          "freq": 24.98,
+          "dur": 18
+        }
+      },
+      {
+        "freq": 867.65,
+        "dur": 310,
+        "env": "linear",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 1197.5,
+          "Q": 0.53
+        },
+        "vibrato": {
+          "rate": 8.42,
+          "depth": 64.91
+        },
+        "noise_mix": 0.27,
+        "random_shift": {
+          "freq": 14.43,
+          "dur": 12
+        }
+      },
+      {
+        "freq": 908.32,
+        "dur": 357,
+        "env": "s-curve",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 1903.71,
+          "Q": 0.62
+        },
+        "vibrato": {
+          "rate": 4.23,
+          "depth": 22.98
+        },
+        "noise_mix": 0.3,
+        "random_shift": {
+          "freq": 12.32,
+          "dur": 17
+        }
+      }
+    ],
+    "energy low": [
+      {
+        "freq": 508.53,
+        "dur": 352,
+        "env": "attack-decay",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 2413.95,
+          "Q": 1.2
+        },
+        "vibrato": {
+          "rate": 6.7,
+          "depth": 66.99
+        },
+        "noise_mix": 0.22,
+        "random_shift": {
+          "freq": 27.71,
+          "dur": 30
+        }
+      },
+      {
+        "freq": 479.22,
+        "dur": 370,
+        "env": "s-curve",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 2396.39,
+          "Q": 0.78
+        },
+        "vibrato": {
+          "rate": 7.45,
+          "depth": 37.38
+        },
+        "noise_mix": 0.13,
+        "random_shift": {
+          "freq": 14.72,
+          "dur": 21
+        }
+      },
+      {
+        "freq": 479.48,
+        "dur": 308,
+        "env": "s-curve",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 1409.75,
+          "Q": 0.9
+        },
+        "vibrato": {
+          "rate": 4.95,
+          "depth": 29.77
+        },
+        "noise_mix": 0.25,
+        "random_shift": {
+          "freq": 19.09,
+          "dur": 31
+        }
+      }
+    ],
+    "charging": [
+      {
+        "freq": 913.36,
+        "dur": 130,
+        "env": "linear",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 1214.07,
+          "Q": 0.63
+        },
+        "vibrato": {
+          "rate": 6.82,
+          "depth": 25.49
+        },
+        "noise_mix": 0.23,
+        "random_shift": {
+          "freq": 14.14,
+          "dur": 16
+        }
+      }
+    ],
+    "error": [
+      {
+        "freq": 662.85,
+        "dur": 195,
+        "env": "s-curve",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 1271.37,
+          "Q": 1.48
+        },
+        "vibrato": {
+          "rate": 8.94,
+          "depth": 63.22
+        },
+        "noise_mix": 0.24,
+        "random_shift": {
+          "freq": 12.2,
+          "dur": 37
+        }
+      }
+    ]
+  },
+  "common_words": {
+    "yes": [
+      {
+        "freq": 565.9,
+        "dur": 191,
+        "env": "linear",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 1647.54,
+          "Q": 0.59
+        },
+        "vibrato": {
+          "rate": 3.26,
+          "depth": 47.09
+        },
+        "noise_mix": 0.11,
+        "random_shift": {
+          "freq": 16.18,
+          "dur": 20
+        }
+      }
+    ],
+    "no": [
+      {
+        "freq": 889.01,
+        "dur": 231,
+        "env": "s-curve",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 1904.01,
+          "Q": 0.61
+        },
+        "vibrato": {
+          "rate": 6.08,
+          "depth": 46.36
+        },
+        "noise_mix": 0.18,
+        "random_shift": {
+          "freq": 14.88,
+          "dur": 14
+        }
+      },
+      {
+        "freq": 729.02,
+        "dur": 107,
+        "env": "linear",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 2694.6,
+          "Q": 0.71
+        },
+        "vibrato": {
+          "rate": 3.54,
+          "depth": 45.62
+        },
+        "noise_mix": 0.09,
+        "random_shift": {
+          "freq": 18.49,
+          "dur": 15
+        }
+      }
+    ],
+    "help": [
+      {
+        "freq": 532.84,
+        "dur": 170,
+        "env": "s-curve",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 2170.73,
+          "Q": 0.86
+        },
+        "vibrato": {
+          "rate": 4.9,
+          "depth": 39.87
+        },
+        "noise_mix": 0.06,
+        "random_shift": {
+          "freq": 12.58,
+          "dur": 18
+        }
+      }
+    ],
+    "stop": [
+      {
+        "freq": 896.55,
+        "dur": 129,
+        "env": "s-curve",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 2755.41,
+          "Q": 0.78
+        },
+        "vibrato": {
+          "rate": 7.33,
+          "depth": 31.5
+        },
+        "noise_mix": 0.18,
+        "random_shift": {
+          "freq": 11.21,
+          "dur": 19
+        }
+      }
+    ],
+    "go": [
+      {
+        "freq": 707.99,
+        "dur": 124,
+        "env": "attack-decay",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 1625.05,
+          "Q": 0.63
+        },
+        "vibrato": {
+          "rate": 7.77,
+          "depth": 44.34
+        },
+        "noise_mix": 0.09,
+        "random_shift": {
+          "freq": 6.37,
+          "dur": 7
+        }
+      },
+      {
+        "freq": 546.62,
+        "dur": 124,
+        "env": "s-curve",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 1745.29,
+          "Q": 0.57
+        },
+        "vibrato": {
+          "rate": 3.3,
+          "depth": 57.83
+        },
+        "noise_mix": 0.11,
+        "random_shift": {
+          "freq": 15.05,
+          "dur": 18
+        }
+      }
+    ],
+    "left": [
+      {
+        "freq": 936.8,
+        "dur": 292,
+        "env": "attack-decay",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 1102.89,
+          "Q": 0.64
+        },
+        "vibrato": {
+          "rate": 4.56,
+          "depth": 15.18
+        },
+        "noise_mix": 0.1,
+        "random_shift": {
+          "freq": 7.32,
+          "dur": 20
+        }
+      },
+      {
+        "freq": 612.12,
+        "dur": 127,
+        "env": "attack-decay",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 1735.12,
+          "Q": 0.88
+        },
+        "vibrato": {
+          "rate": 5.87,
+          "depth": 50.36
+        },
+        "noise_mix": 0.17,
+        "random_shift": {
+          "freq": 19.62,
+          "dur": 5
+        }
+      }
+    ],
+    "right": [
+      {
+        "freq": 514.48,
+        "dur": 169,
+        "env": "s-curve",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 2843.08,
+          "Q": 0.68
+        },
+        "vibrato": {
+          "rate": 3.91,
+          "depth": 17.16
+        },
+        "noise_mix": 0.13,
+        "random_shift": {
+          "freq": 6.04,
+          "dur": 5
+        }
+      },
+      {
+        "freq": 545.88,
+        "dur": 235,
+        "env": "linear",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 1839.66,
+          "Q": 0.67
+        },
+        "vibrato": {
+          "rate": 4.85,
+          "depth": 46.08
+        },
+        "noise_mix": 0.16,
+        "random_shift": {
+          "freq": 13.51,
+          "dur": 7
+        }
+      }
+    ],
+    "up": [
+      {
+        "freq": 577.79,
+        "dur": 293,
+        "env": "s-curve",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 2347.94,
+          "Q": 0.64
+        },
+        "vibrato": {
+          "rate": 6.31,
+          "depth": 34.28
+        },
+        "noise_mix": 0.09,
+        "random_shift": {
+          "freq": 9.1,
+          "dur": 8
+        }
+      }
+    ],
+    "down": [
+      {
+        "freq": 714.96,
+        "dur": 172,
+        "env": "s-curve",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 2186.27,
+          "Q": 0.76
+        },
+        "vibrato": {
+          "rate": 4.54,
+          "depth": 21.03
+        },
+        "noise_mix": 0.2,
+        "random_shift": {
+          "freq": 5.82,
+          "dur": 11
+        }
+      },
+      {
+        "freq": 650.71,
+        "dur": 154,
+        "env": "linear",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 1578.89,
+          "Q": 0.56
+        },
+        "vibrato": {
+          "rate": 5.49,
+          "depth": 31.53
+        },
+        "noise_mix": 0.03,
+        "random_shift": {
+          "freq": 12.99,
+          "dur": 12
+        }
+      }
+    ],
+    "friend": [
+      {
+        "freq": 536.04,
+        "dur": 289,
+        "env": "linear",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 1037.48,
+          "Q": 0.96
+        },
+        "vibrato": {
+          "rate": 7.31,
+          "depth": 38.79
+        },
+        "noise_mix": 0.11,
+        "random_shift": {
+          "freq": 15.64,
+          "dur": 18
+        }
+      },
+      {
+        "freq": 644.76,
+        "dur": 203,
+        "env": "linear",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 1343.75,
+          "Q": 0.97
+        },
+        "vibrato": {
+          "rate": 5.3,
+          "depth": 44.48
+        },
+        "noise_mix": 0.07,
+        "random_shift": {
+          "freq": 11.55,
+          "dur": 8
+        }
+      }
+    ],
+    "enemy": [
+      {
+        "freq": 717.84,
+        "dur": 202,
+        "env": "s-curve",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 1791.53,
+          "Q": 0.66
+        },
+        "vibrato": {
+          "rate": 4.7,
+          "depth": 26.65
+        },
+        "noise_mix": 0.03,
+        "random_shift": {
+          "freq": 12.66,
+          "dur": 8
+        }
+      }
+    ],
+    "over": [
+      {
+        "freq": 952.96,
+        "dur": 189,
+        "env": "attack-decay",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 2916.45,
+          "Q": 0.82
+        },
+        "vibrato": {
+          "rate": 3.74,
+          "depth": 15.14
+        },
+        "noise_mix": 0.05,
+        "random_shift": {
+          "freq": 7.6,
+          "dur": 9
+        }
+      }
+    ],
+    "out": [
+      {
+        "freq": 588.57,
+        "dur": 297,
+        "env": "s-curve",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 1927.91,
+          "Q": 0.78
+        },
+        "vibrato": {
+          "rate": 5.9,
+          "depth": 44.06
+        },
+        "noise_mix": 0.18,
+        "random_shift": {
+          "freq": 14.64,
+          "dur": 15
+        }
+      }
+    ],
+    "where": [
+      {
+        "freq": 575.48,
+        "dur": 117,
+        "env": "attack-decay",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 2262.77,
+          "Q": 0.9
+        },
+        "vibrato": {
+          "rate": 5.96,
+          "depth": 27.6
+        },
+        "noise_mix": 0.01,
+        "random_shift": {
+          "freq": 11.93,
+          "dur": 6
+        }
+      },
+      {
+        "freq": 528.45,
+        "dur": 173,
+        "env": "linear",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 2728.5,
+          "Q": 0.93
+        },
+        "vibrato": {
+          "rate": 6.08,
+          "depth": 35.35
+        },
+        "noise_mix": 0.09,
+        "random_shift": {
+          "freq": 13.31,
+          "dur": 6
+        }
+      }
+    ],
+    "what": [
+      {
+        "freq": 954.52,
+        "dur": 246,
+        "env": "s-curve",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 1643.05,
+          "Q": 0.74
+        },
+        "vibrato": {
+          "rate": 3.75,
+          "depth": 13.09
+        },
+        "noise_mix": 0.02,
+        "random_shift": {
+          "freq": 18.49,
+          "dur": 15
+        }
+      },
+      {
+        "freq": 991.19,
+        "dur": 121,
+        "env": "s-curve",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 1345.12,
+          "Q": 0.62
+        },
+        "vibrato": {
+          "rate": 5.19,
+          "depth": 31.97
+        },
+        "noise_mix": 0.1,
+        "random_shift": {
+          "freq": 7.38,
+          "dur": 16
+        }
+      }
+    ],
+    "why": [
+      {
+        "freq": 693.71,
+        "dur": 298,
+        "env": "attack-decay",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 2195.77,
+          "Q": 0.89
+        },
+        "vibrato": {
+          "rate": 6.24,
+          "depth": 13.3
+        },
+        "noise_mix": 0.02,
+        "random_shift": {
+          "freq": 15.18,
+          "dur": 14
+        }
+      },
+      {
+        "freq": 626.0,
+        "dur": 268,
+        "env": "s-curve",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 1666.72,
+          "Q": 0.79
+        },
+        "vibrato": {
+          "rate": 3.71,
+          "depth": 27.49
+        },
+        "noise_mix": 0.19,
+        "random_shift": {
+          "freq": 15.48,
+          "dur": 17
+        }
+      }
+    ],
+    "who": [
+      {
+        "freq": 797.52,
+        "dur": 121,
+        "env": "attack-decay",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 1753.36,
+          "Q": 0.9
+        },
+        "vibrato": {
+          "rate": 7.07,
+          "depth": 43.51
+        },
+        "noise_mix": 0.17,
+        "random_shift": {
+          "freq": 16.08,
+          "dur": 7
+        }
+      }
+    ],
+    "please": [
+      {
+        "freq": 754.24,
+        "dur": 104,
+        "env": "attack-decay",
+        "filter": {
+          "type": "highpass",
+          "cutoff": 1360.53,
+          "Q": 0.61
+        },
+        "vibrato": {
+          "rate": 7.74,
+          "depth": 34.31
+        },
+        "noise_mix": 0.05,
+        "random_shift": {
+          "freq": 7.06,
+          "dur": 7
+        }
+      },
+      {
+        "freq": 647.9,
+        "dur": 125,
+        "env": "s-curve",
+        "filter": {
+          "type": "bandpass",
+          "cutoff": 2670.24,
+          "Q": 0.94
+        },
+        "vibrato": {
+          "rate": 3.19,
+          "depth": 26.84
+        },
+        "noise_mix": 0.15,
+        "random_shift": {
+          "freq": 6.97,
+          "dur": 17
+        }
+      }
+    ],
+    "thanks": [
+      {
+        "freq": 581.12,
+        "dur": 277,
+        "env": "s-curve",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 2442.37,
+          "Q": 0.52
+        },
+        "vibrato": {
+          "rate": 4.82,
+          "depth": 45.98
+        },
+        "noise_mix": 0.19,
+        "random_shift": {
+          "freq": 14.16,
+          "dur": 19
+        }
+      }
+    ],
+    "sorry": [
+      {
+        "freq": 767.01,
+        "dur": 179,
+        "env": "attack-decay",
+        "filter": {
+          "type": "lowpass",
+          "cutoff": 1735.68,
+          "Q": 0.97
+        },
+        "vibrato": {
+          "rate": 7.92,
+          "depth": 33.08
+        },
+        "noise_mix": 0.06,
+        "random_shift": {
+          "freq": 10.73,
+          "dur": 18
+        }
+      }
+    ]
+  },
+  "alphabet": {
+    "A": {
+      "freq": 300,
+      "dur": 200,
+      "env": "linear",
+      "filter": {
+        "type": "lowpass",
+        "cutoff": 2000,
+        "Q": 0.707
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    "B": {
+      "freq": 330,
+      "dur": 200,
+      "env": "linear",
+      "filter": {
+        "type": "lowpass",
+        "cutoff": 2000,
+        "Q": 0.707
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    "C": {
+      "freq": 360,
+      "dur": 200,
+      "env": "linear",
+      "filter": {
+        "type": "lowpass",
+        "cutoff": 2000,
+        "Q": 0.707
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    "D": {
+      "freq": 390,
+      "dur": 200,
+      "env": "linear",
+      "filter": {
+        "type": "lowpass",
+        "cutoff": 2000,
+        "Q": 0.707
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    "E": {
+      "freq": 420,
+      "dur": 200,
+      "env": "linear",
+      "filter": {
+        "type": "lowpass",
+        "cutoff": 2000,
+        "Q": 0.707
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    "F": {
+      "freq": 450,
+      "dur": 200,
+      "env": "linear",
+      "filter": {
+        "type": "lowpass",
+        "cutoff": 2000,
+        "Q": 0.707
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    "G": {
+      "freq": 480,
+      "dur": 200,
+      "env": "linear",
+      "filter": {
+        "type": "lowpass",
+        "cutoff": 2000,
+        "Q": 0.707
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    "H": {
+      "freq": 510,
+      "dur": 200,
+      "env": "linear",
+      "filter": {
+        "type": "lowpass",
+        "cutoff": 2000,
+        "Q": 0.707
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    "I": {
+      "freq": 540,
+      "dur": 200,
+      "env": "linear",
+      "filter": {
+        "type": "lowpass",
+        "cutoff": 2000,
+        "Q": 0.707
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    "J": {
+      "freq": 570,
+      "dur": 200,
+      "env": "linear",
+      "filter": {
+        "type": "lowpass",
+        "cutoff": 2000,
+        "Q": 0.707
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    "K": {
+      "freq": 600,
+      "dur": 200,
+      "env": "linear",
+      "filter": {
+        "type": "lowpass",
+        "cutoff": 2000,
+        "Q": 0.707
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    "L": {
+      "freq": 630,
+      "dur": 200,
+      "env": "linear",
+      "filter": {
+        "type": "lowpass",
+        "cutoff": 2000,
+        "Q": 0.707
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    "M": {
+      "freq": 660,
+      "dur": 200,
+      "env": "linear",
+      "filter": {
+        "type": "lowpass",
+        "cutoff": 2000,
+        "Q": 0.707
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    "N": {
+      "freq": 690,
+      "dur": 200,
+      "env": "linear",
+      "filter": {
+        "type": "lowpass",
+        "cutoff": 2000,
+        "Q": 0.707
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    "O": {
+      "freq": 720,
+      "dur": 200,
+      "env": "linear",
+      "filter": {
+        "type": "lowpass",
+        "cutoff": 2000,
+        "Q": 0.707
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    "P": {
+      "freq": 750,
+      "dur": 200,
+      "env": "linear",
+      "filter": {
+        "type": "lowpass",
+        "cutoff": 2000,
+        "Q": 0.707
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    "Q": {
+      "freq": 780,
+      "dur": 200,
+      "env": "linear",
+      "filter": {
+        "type": "lowpass",
+        "cutoff": 2000,
+        "Q": 0.707
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    "R": {
+      "freq": 810,
+      "dur": 200,
+      "env": "linear",
+      "filter": {
+        "type": "lowpass",
+        "cutoff": 2000,
+        "Q": 0.707
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    "S": {
+      "freq": 840,
+      "dur": 200,
+      "env": "linear",
+      "filter": {
+        "type": "lowpass",
+        "cutoff": 2000,
+        "Q": 0.707
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    "T": {
+      "freq": 870,
+      "dur": 200,
+      "env": "linear",
+      "filter": {
+        "type": "lowpass",
+        "cutoff": 2000,
+        "Q": 0.707
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    "U": {
+      "freq": 900,
+      "dur": 200,
+      "env": "linear",
+      "filter": {
+        "type": "lowpass",
+        "cutoff": 2000,
+        "Q": 0.707
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    "V": {
+      "freq": 930,
+      "dur": 200,
+      "env": "linear",
+      "filter": {
+        "type": "lowpass",
+        "cutoff": 2000,
+        "Q": 0.707
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    "W": {
+      "freq": 960,
+      "dur": 200,
+      "env": "linear",
+      "filter": {
+        "type": "lowpass",
+        "cutoff": 2000,
+        "Q": 0.707
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    "X": {
+      "freq": 990,
+      "dur": 200,
+      "env": "linear",
+      "filter": {
+        "type": "lowpass",
+        "cutoff": 2000,
+        "Q": 0.707
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    "Y": {
+      "freq": 1020,
+      "dur": 200,
+      "env": "linear",
+      "filter": {
+        "type": "lowpass",
+        "cutoff": 2000,
+        "Q": 0.707
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    "Z": {
+      "freq": 1050,
+      "dur": 200,
+      "env": "linear",
+      "filter": {
+        "type": "lowpass",
+        "cutoff": 2000,
+        "Q": 0.707
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    "0": {
+      "freq": 1100,
+      "dur": 180,
+      "env": "linear",
+      "filter": {
+        "type": "lowpass",
+        "cutoff": 1800,
+        "Q": 0.707
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    "1": {
+      "freq": 1125,
+      "dur": 180,
+      "env": "linear",
+      "filter": {
+        "type": "lowpass",
+        "cutoff": 1800,
+        "Q": 0.707
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    "2": {
+      "freq": 1150,
+      "dur": 180,
+      "env": "linear",
+      "filter": {
+        "type": "lowpass",
+        "cutoff": 1800,
+        "Q": 0.707
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    "3": {
+      "freq": 1175,
+      "dur": 180,
+      "env": "linear",
+      "filter": {
+        "type": "lowpass",
+        "cutoff": 1800,
+        "Q": 0.707
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    "4": {
+      "freq": 1200,
+      "dur": 180,
+      "env": "linear",
+      "filter": {
+        "type": "lowpass",
+        "cutoff": 1800,
+        "Q": 0.707
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    "5": {
+      "freq": 1225,
+      "dur": 180,
+      "env": "linear",
+      "filter": {
+        "type": "lowpass",
+        "cutoff": 1800,
+        "Q": 0.707
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    "6": {
+      "freq": 1250,
+      "dur": 180,
+      "env": "linear",
+      "filter": {
+        "type": "lowpass",
+        "cutoff": 1800,
+        "Q": 0.707
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    "7": {
+      "freq": 1275,
+      "dur": 180,
+      "env": "linear",
+      "filter": {
+        "type": "lowpass",
+        "cutoff": 1800,
+        "Q": 0.707
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    "8": {
+      "freq": 1300,
+      "dur": 180,
+      "env": "linear",
+      "filter": {
+        "type": "lowpass",
+        "cutoff": 1800,
+        "Q": 0.707
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    "9": {
+      "freq": 1325,
+      "dur": 180,
+      "env": "linear",
+      "filter": {
+        "type": "lowpass",
+        "cutoff": 1800,
+        "Q": 0.707
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    "?": {
+      "freq": 1500,
+      "dur": 160,
+      "env": "attack-decay",
+      "filter": {
+        "type": "bandpass",
+        "cutoff": 1500,
+        "Q": 5.0
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    "!": {
+      "freq": 1550,
+      "dur": 160,
+      "env": "attack-decay",
+      "filter": {
+        "type": "bandpass",
+        "cutoff": 1550,
+        "Q": 5.0
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    ".": {
+      "freq": 1600,
+      "dur": 160,
+      "env": "attack-decay",
+      "filter": {
+        "type": "bandpass",
+        "cutoff": 1600,
+        "Q": 5.0
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    },
+    ",": {
+      "freq": 1650,
+      "dur": 160,
+      "env": "attack-decay",
+      "filter": {
+        "type": "bandpass",
+        "cutoff": 1650,
+        "Q": 5.0
+      },
+      "vibrato": {
+        "rate": 0.0,
+        "depth": 0.0
+      },
+      "noise_mix": 0.0,
+      "random_shift": {
+        "freq": 0.0,
+        "dur": 0
+      }
+    }
+  }
+}

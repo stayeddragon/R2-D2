@@ -27,7 +27,7 @@ square wave mix to be tuned. A convenience function
 * **recognizer\.py** – Contains the **`Recognizer`** class which loads the
 lexicon, precomputes reference features and uses MFCCs plus
 dynamic time warping to map incoming audio back to phrases. It
-now includes delta and delta‑delta coefficients, per‑utterance
+ includes delta and delta‑delta coefficients, per‑utterance
 normalisation and an adaptive threshold computed from inter‑phrase
 distances. If no good match is found it falls back to spelling
 using energy‑based segmentation.
@@ -52,7 +52,7 @@ The lexicon is entirely data‑driven. To customise the translator:
 1. Edit or extend **`lexicon.json.`** You may add new entries to the
 **`phrases`** or **`common_words`** sections, or define additional
 letters/symbols in the alphabet mapping. Each new entry should
-follow the parameter schema described at the top of **`synth\.py`**.
+follow the parameter schema described at the top of **`synth.py`**.
 
 2. Reload the server or instantiate new **`R2Synth`** and **`Recognizer`**
 instances to pick up changes.
@@ -207,7 +207,7 @@ confidence before merging changes.
 ### Client SDKs
 To simplify integration you can use the provided client libraries:
 
-* **`r2translator\.py`** – A Python wrapper around the REST and
+* **`r2translator.py`** – A Python wrapper around the REST and
 WebSocket APIs built on **`requests`** and **`websockets`**. It offers
 synchronous and asynchronous methods for synthesis and
 recognition.

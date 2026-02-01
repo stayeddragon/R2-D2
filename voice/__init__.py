@@ -22,6 +22,19 @@ From Speech:
     speech = voice.load("my_voice.wav")
     r2d2 = voice.speech_to_r2d2(speech)
     voice.save("output.wav", r2d2)
+
+Bidirectional Translation:
+    from voice import R2D2Translator
+
+    translator = R2D2Translator()
+
+    # Text to R2D2
+    audio = translator.to_r2d2("Hello there!")
+    translator.save("r2d2.wav", audio)
+
+    # R2D2 back to meaning
+    result = translator.from_r2d2("r2d2.wav")
+    print(result.interpretation)  # "Hi! Nice to see you!"
 """
 
 from .r2d2_voice import (
@@ -51,6 +64,22 @@ from .r2d2_enhanced import (
     beep,
 )
 
+from .tts_enhanced import (
+    EnhancedTTS,
+    ProsodyInjector,
+    ProsodyContour,
+    PROSODY_PATTERNS,
+    list_prosody_patterns,
+)
+
+from .r2d2_translator import (
+    R2D2Translator,
+    R2D2Analyzer,
+    R2D2Analysis,
+    UtteranceType,
+    format_analysis,
+)
+
 __all__ = [
     # Core
     'R2D2Voice',
@@ -73,6 +102,18 @@ __all__ = [
     'speak',
     'convert',
     'beep',
+    # TTS
+    'EnhancedTTS',
+    'ProsodyInjector',
+    'ProsodyContour',
+    'PROSODY_PATTERNS',
+    'list_prosody_patterns',
+    # Translator
+    'R2D2Translator',
+    'R2D2Analyzer',
+    'R2D2Analysis',
+    'UtteranceType',
+    'format_analysis',
 ]
 
-__version__ = '1.0.0'
+__version__ = '2.0.0'

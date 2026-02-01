@@ -1,0 +1,27 @@
+# R2-D2 Voice Synthesis Requirements
+
+# Core dependencies (required)
+numpy>=1.20.0
+scipy>=1.7.0
+
+# Optional: Text-to-Speech backends
+# Uncomment the ones you want to use
+
+# pyttsx3 - Cross-platform offline TTS
+# pyttsx3>=2.90
+
+# gTTS - Google Text-to-Speech (requires internet)
+# gtts>=2.2.0
+
+# Note: espeak is recommended and used by default
+# Install via system package manager:
+#   Ubuntu/Debian: sudo apt install espeak
+#   macOS: brew install espeak
+#   Arch: sudo pacman -S espeak
+
+# Optional: For advanced audio processing
+# librosa>=0.9.0  # More sophisticated pitch detection
+# sounddevice>=0.4.0  # Real-time audio I/O
+
+# Optional: For neural network features
+# torch>=1.10.0  # If you want to add ML-based enhancement
